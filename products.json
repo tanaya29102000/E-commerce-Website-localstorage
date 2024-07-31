@@ -1,0 +1,154 @@
+[
+    {
+        "id": 1,
+        "name": "Buy Natural Nut Butters & Snacks",
+        "price": 350,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhA_Wy4PDftgbjSCmbcq2nBMd5KNqgIwiEDQ&s",
+        "description": "350g",
+        "discountedPrice": 180
+    },
+    {
+        "id": 2,
+        "name": "chikki",
+        "price": 270,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQ6mFzijtbSaE6sdnduvKpaRgS0yJqBLWKA&s",
+        "description": "400g",
+        "discountedPrice": 265
+    },
+    {
+        "id": 3,
+        "name": "Wholegrain & Seeds Muesli",
+        "price": 270,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSnmdj82mvbkqK3AanVg9D44FzvxyWtpkPDQ&s",
+        "description": "350g",
+        "discountedPrice": 265
+    },
+    {
+        "id": 4,
+        "name": "Dry fruits",
+        "price": 270,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPBQVfAwPX4mSkob8Cu8_F8h_baUm9eTkR2Q&s",
+        "description": "350g",
+        "discountedPrice": 265
+    },
+    {
+        "id": 5,
+        "name": "Walnuts",
+        "price": 270,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWkys5b50m31Gw_TB1z_3xxSqN88jTPH3CHg&s",
+        "description": "350g",
+        "discountedPrice": 235
+    },
+    {
+        "id": 6,
+        "name": "Buy Natural Nut Butters & Snacks",
+        "price": 350,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhA_Wy4PDftgbjSCmbcq2nBMd5KNqgIwiEDQ&s",
+        "description": "350g",
+        "discountedPrice": 180
+    },
+    {
+        "id": 7,
+        "name": "chikki",
+        "price": 270,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQ6mFzijtbSaE6sdnduvKpaRgS0yJqBLWKA&s",
+        "description": "400g",
+        "discountedPrice": 265
+    },
+    {
+        "id": 8,
+        "name": "Cakes",
+        "price": 270,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSnmdj82mvbkqK3AanVg9D44FzvxyWtpkPDQ&s",
+        "description": "350g",
+        "discountedPrice": 265
+    },
+    {
+        "id": 9,
+        "name": "Dry fruits",
+        "price": 270,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPBQVfAwPX4mSkob8Cu8_F8h_baUm9eTkR2Q&s",
+        "description": "350g",
+        "discountedPrice": 265
+    },
+    {
+        "id": 10,
+        "name": "Walnuts",
+        "price": 270,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWkys5b50m31Gw_TB1z_3xxSqN88jTPH3CHg&s",
+        "description": "350g",
+        "discountedPrice": 235
+    },
+    {
+        "id": 11,
+        "name": "Buy Natural Nut Butters",
+        "price": 350,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhA_Wy4PDftgbjSCmbcq2nBMd5KNqgIwiEDQ&s",
+        "description": "350g",
+        "discountedPrice": 180
+    },
+    {
+        "id": 12,
+        "name": "chikki",
+        "price": 270,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQ6mFzijtbSaE6sdnduvKpaRgS0yJqBLWKA&s",
+        "description": "400g",
+        "discountedPrice": 265
+    },
+    {
+        "id": 13,
+        "name": "Cakes",
+        "price": 270,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSnmdj82mvbkqK3AanVg9D44FzvxyWtpkPDQ&s",
+        "description": "350g",
+        "discountedPrice": 265
+    },
+    {
+        "id": 14,
+        "name": "Dry fruits",
+        "price": 270,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPBQVfAwPX4mSkob8Cu8_F8h_baUm9eTkR2Q&s",
+        "description": "350g",
+        "discountedPrice": 265
+    },
+    {
+        "id": 15,
+        "name": "chikki",
+        "price": 270,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQ6mFzijtbSaE6sdnduvKpaRgS0yJqBLWKA&s",
+        "description": "400g",
+        "discountedPrice": 265
+    },
+    {
+        "id": 16,
+        "name": "Wholegrain & Seeds Muesli",
+        "price": 270,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSnmdj82mvbkqK3AanVg9D44FzvxyWtpkPDQ&s",
+        "description": "350g",
+        "discountedPrice": 265
+    },
+    {
+        "id": 16,
+        "name": "Wholegrain & Seeds Muesli",
+        "price": 270,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSnmdj82mvbkqK3AanVg9D44FzvxyWtpkPDQ&s",
+        "description": "350g",
+        "discountedPrice": 265
+    },
+    {
+        "id": 16,
+        "name": "Wholegrain & Seeds Muesli",
+        "price": 270,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSnmdj82mvbkqK3AanVg9D44FzvxyWtpkPDQ&s",
+        "description": "350g",
+        "discountedPrice": 265
+    },
+    {
+        "id": 16,
+        "name": "Wholegrain & Seeds Muesli",
+        "price": 270,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSnmdj82mvbkqK3AanVg9D44FzvxyWtpkPDQ&s",
+        "description": "350g",
+        "discountedPrice": 265
+    }
+]

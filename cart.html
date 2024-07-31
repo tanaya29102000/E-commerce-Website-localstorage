@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>E-commerce Cart</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <div class="logo">
+          <h1>My E-commerce Store</h1>
+        </div>
+        <div class="nav-links" style="margin-top: 20px">
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="cart.html">Cart</a></li>
+            <li><a class="logout-button">Logout</a></li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+    <main>
+      <section id="cart">
+        <ul id="cart-items">
+          <!-- Cart items will be displayed here -->
+        </ul>
+        <p>Items in cart: <span id="cart-count">0</span></p>
+        <p>Total: $<span id="total-price">0.00</span></p>
+      </section>
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>
